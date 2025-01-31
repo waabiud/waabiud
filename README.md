@@ -7,10 +7,10 @@
 <h2 align="center">🧐 About Me</h2>
 
 <p align="center">
-  - 🎓 **Mathematics with Computing Student**. <br>
+  - 🎓 ** Tech enthusiast **. <br>
   - 👨‍💻 Passionate about **Software Development & Data Science**. <br>
-  - 💡 I specialize in **Full-Stack Development & DevOps**. <br>
-  - 📖 I love **learning new technologies & solving problems**. <br>
+  - 💡 I specialize in **Full-Stack Development **. <br>
+  - 📖 I love **learning new technologies & solving problems in Hacker rank**. <br>
   - 🎵 **RnB music lover** 🎶.
 </p>
 
@@ -39,11 +39,31 @@
         <tr>
         <td><img src="https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=cassandra&logoColor=white"/></td>
         <td><img src="https://img.shields.io/badge/Visual%20Basic-9458C2?style=for-the-badge&logo=visualstudio&logoColor=white"/></td>
-        <td></td>
-        <td></td>
+        <td><img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"/></td>
+        <td><img src="https://img.shields.io/badge/JavaFX-FF7800?style=for-the-badge&logo=java&logoColor=white"/></td>
     </tr>
-
+    <tr>
+        <td><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/></td>
+        <td><img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/></td>
+    </tr>
   </table>
+</p>
+
+<h2 align="center">🏆 Badges Earned</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux%20Essentials-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/C%20Programming%20Badge-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Git%20Fundamentals-red?style=for-the-badge"/>
+</p>
+
+<h2 align="center">🎖️ Achievements</h2>
+
+<p align="center">
+  - 🏅 **Top Performer in Data Structures & Algorithms** at Kaimosi University. <br>
+  - 🏆 **Developed and Deployed a Full-Stack Web App** for student management. <br>
+  - 🚀 **Contributed to Open Source Projects** in DevOps and Web Development. <br>
+  - 🎓 **Earned Multiple Certifications in Software Development & Cloud Technologies**. <br>
 </p>
 
 <h2 align="center">📊 GitHub Stats</h2>
@@ -63,4 +83,3 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
-
