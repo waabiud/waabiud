@@ -60,7 +60,7 @@
 <h2 align="center">🎖️ Achievements</h2>
 
 <p align="center">
-  - 🏅 **Top Performer in Data Structures & Algorithms** at Kaimosi University. <br>
+  - 🏅 **Top Performer in Data Structures & Algorithms** at CodeAlpha. <br>
   - 🏆 **Developed and Deployed a Full-Stack Web App** for student management. <br>
   - 🚀 **Contributed to Open Source Projects** in DevOps and Web Development. <br>
   - 🎓 **Earned Multiple Certifications in Software Development & Cloud Technologies**. <br>
