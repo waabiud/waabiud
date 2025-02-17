@@ -48,7 +48,7 @@
 <p align="center">
   - 🛍️ **E-commerce Website** - <a href="https://github.com/waabiud/ecommerce">GitHub</a> | <a href="https://waabiud.github.io/ecommerce">Live</a> <br>
   - 🗳️ **Online Voting System** - <a href="https://github.com/waabiud/OnlinVotingSystem">GitHub</a> <br>
-  - 🔢 **Calculator** - <a href="https://github.com/waabiud/calculator">GitHub</a> <br>
+  - 🔢 **Calculator** - <a href="https://github.com/waabiud/calculator">GitHub</a> | <a href="https://waabiud.github.io/calculator">Live</a> <br>
 </p>
 
 <h2 align="center">🏆 Badges Earned</h2>
