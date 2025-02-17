@@ -1,4 +1,8 @@
-<h1 align="center">Hi there, I'm Abiud Wamalwa 👋</h1>
+<h1 align="center">
+  <a href="#">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Hey%2C+I'm+Wamalwa+Abiud!" alt="Hey, I'm Wamalwa Abiud!">
+  </a>
+</h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500px">
@@ -36,17 +40,15 @@
         <td><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/></td>
         <td><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/></td>
     </tr>
-    <tr>
-        <td><img src="https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=cassandra&logoColor=white"/></td>
-        <td><img src="https://img.shields.io/badge/Visual%20Basic-9458C2?style=for-the-badge&logo=visualstudio&logoColor=white"/></td>
-        <td><img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"/></td>
-        <td><img src="https://img.shields.io/badge/JavaFX-FF7800?style=for-the-badge&logo=java&logoColor=white"/></td>
-    </tr>
-    <tr>
-        <td><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/></td>
-        <td><img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/></td>
-    </tr>
   </table>
+</p>
+
+<h2 align="center">🔥 Popular Repositories</h2>
+
+<p align="center">
+  - 🛍️ **E-commerce Website** - <a href="https://github.com/waabiud/ecommerce">GitHub</a> | <a href="https://waabiud.github.io/ecommerce">Live</a> <br>
+  - 🗳️ **Online Voting System** - <a href="https://github.com/waabiud/OnlinVotingSystem">GitHub</a> <br>
+  - 🔢 **Calculator** - <a href="https://github.com/waabiud/calculator">GitHub</a> <br>
 </p>
 
 <h2 align="center">🏆 Badges Earned</h2>
@@ -55,15 +57,6 @@
   <img src="https://img.shields.io/badge/Linux%20Essentials-blue?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/C%20Programming%20Badge-orange?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Git%20Fundamentals-red?style=for-the-badge"/>
-</p>
-
-<h2 align="center">🎖️ Achievements</h2>
-
-<p align="center">
-  - 🏅 **Top Performer in Data Structures & Algorithms** at CodeAlpha. <br>
-  - 🏆 **Developed and Deployed a Full-Stack Web App** for student management. <br>
-  - 🚀 **Contributed to Open Source Projects** in DevOps and Web Development. <br>
-  - 🎓 **Earned Multiple Certifications in Software Development & Cloud Technologies**. <br>
 </p>
 
 <h2 align="center">📊 GitHub Stats</h2>
