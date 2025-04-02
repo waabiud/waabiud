@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="#">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Hey%2C+I'm+Wamalwa+Abiud!" alt="Hey, I'm Wamalwa Abiud!<br>A passionate Software Developer!🤓">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Hey%2C+I'm+Wamalwa+Abiud, I Have No life🤓!" alt="Hey, I'm Wamalwa Abiud,O have no life🤓!<br>A passionate Software Developer!🤓">
   </a>
 </h1>
 
@@ -69,13 +69,17 @@
 <h2 align="center">📫 Connect With Me</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/abiudwamalwa">
+  <a href="https://www.linkedin.com/in/wamalwaabiud">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:abiudwamalwa1979@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/abiu__d?igsh=MXd0NWxvMWRlbGZnaQ==">
+
+  <a href="mailto:abiud.wamalwaa@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=red"/>
+  </a>
+  <a href="https://www.instagram.com/_abiu_d?igsh=MXd0NWxvMWRlbGZnaQ==">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="https://www.facebook.com/profile.php?id=100089464316173">
