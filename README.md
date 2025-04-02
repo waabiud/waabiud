@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="#">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Hey%2C+I'm+Wamalwa+Abiud!+i" alt="Hey, I'm Wamalwa Abiud!<br>A passionate Software Developer!🤓">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Hey%2C+I'm+Wamalwa+Abiud!+<br>I+have+no+life😎!" alt="Hey, I'm Wamalwa Abiud!<br>A passionate Software Developer!🤓">
   </a>
 </h1>
 
