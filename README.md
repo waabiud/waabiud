@@ -1,30 +1,12 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=24&lines=Hey%2C;I'm+Wamalwa+Abiud%2C;I+have+no+life" alt="Typing SVG" />
+<h1 align="center"> <a href="#"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Hey,+Am+Wamalwa+Abiud!;%I+have+no+life😎" alt="Hey, Am Wamalwa Abiud!\nI have no life😎"> </a> </h1> <p align="center"> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500px"> </p>
+
 </p>
 **Full-stack Dev | Data Analyst | Cloud Enthusiast | Math/CS Student **
 
 I build scalable web apps and analyze data like a pro. With a passion for clean code and smart design, I blend tech and creativity to solve real-world problems. Currently vibing with React, Node.js, and data pipelines. Let’s build the future, one commit at a time.
+ 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abiudwamalwa)
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/waabiud)
-[![Instagram](https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/abiu__d)
-[![Email](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abiudwamalwa1979@gmail.com)
-
----
-
-## 🔥 What I Do
-
-- **Full-Stack Dev:** MERN stack, Spring Boot, Django
-- **Data Analytics:** Python (Pandas, NumPy), SPSS, R
-- **Cloud/DevOps:** AWS, Jenkins, GitLab CI/CD, Docker, Kubernetes
-- **Mobile Dev:** React Native, Dart
-- **Low-level Systems:** C++, Assembly
-- **Academic Flex:** BSc. in Computer Science @ Kaimosi University
-
----
-
-## 🚀 Technologies & Tools
-
+<h2 align="center">🚀 Technologies & Tools</h2>
 <p align="center">
 <table>
 <tr>
@@ -71,39 +53,4 @@ I build scalable web apps and analyze data like a pro. With a passion for clean 
 </table>
 </p>
 
----
-
-## 🧠 Featured Projects
-
-- **[E-commerce Website](https://github.com/waabiud/ecommerce):** React + Node.js online store with M-Pesa & PayPal
-- **[Scientific Calculator](https://github.com/waabiud/calculator):** Web calculator with modern UI
-- **[Online Voting System](https://github.com/waabiud/OnlinVotingSystem):** Secure digital elections
-- **[Bible App & WhatsApp Bot (coming soon)]**
-
----
-
-## 📊 GitHub Stats
-
-![Abiud's GitHub stats](https://github-readme-stats.vercel.app/api?username=waabiud&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=waabiud&layout=compact&theme=radical)
-
----
-
-## ✨ Fun Facts
-
-- I walk a lot — it clears my mind and sparks ideas.
-- RnB is the vibe when I’m coding.
-- I’m short-tempered but deeply focused.
-- Dream job? Something meaningful in AI, fintech, or education tech.
-
----
-
-## 📬 Connect with Me
-
-- **WhatsApp/Telegram:** +254792129479  
-- **Email:** abiudwamalwa1979@gmail.com  
-- **Portfolio Site:** Coming soon...
-
----
-
-> *“Code it until it’s clean, automate it until it’s smart.”*
+<h2 align="center">🔥 Popular Repositories</h2> <p align="center"> - 🛍️ **E-commerce Website** - <a href="https://github.com/waabiud/ecommerce">GitHub</a> | <a href="https://waabiud.github.io/ecommerce">Live</a> <br> - 🗳️ **Online Voting System** - <a href="https://github.com/waabiud/OnlinVotingSystem">GitHub</a> <br> - 🔢 **Calculator** - <a href="https://github.com/waabiud/calculator">GitHub</a> | <a href="https://waabiud.github.io/calculator">Live</a> <br> </p> <h2 align="center">🏆 Badges Earned</h2> <p align="center"> <img src="https://img.shields.io/badge/Linux%20Essentials-blue?style=for-the-badge"/> <img src="https://img.shields.io/badge/C%20Programming%20Badge-orange?style=for-the-badge"/> <img src="https://img.shields.io/badge/Git%20Fundamentals-red?style=for-the-badge"/> </p> <h2 align="center">📊 GitHub Stats</h2> <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=waabiud&show_icons=true&theme=tokyonight" width="48%" align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waabiud&layout=compact&theme=tokyonight" width="48%" align="right"> </p> <h2 align="center">📫 Connect With Me</h2> <p align="center"> <a href="https://www.linkedin.com/in/wamalwaabiud"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:abiudwamalwa1979@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="mailto:abiud.wamalwaa@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=red"/> </a> <a href="https://www.instagram.com/_abiu_d?igsh=MXd0NWxvMWRlbGZnaQ=="> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a> <a href="https://www.facebook.com/profile.php?id=100089464316173"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/> </a> <a href="https://www.facebook.com/profile.php?id=100084568450857"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/> </a> <a href="https://wa.me/254792129479"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/> </a> <a href="https://t.me/+254792129479"> <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/> </a> </p>
