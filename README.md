@@ -1,7 +1,9 @@
 <h1 align="center"> <a href="#"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Hey,+Am+Wamalwa+Abiud!;%I+have+no+life😎" alt="Hey, Am Wamalwa Abiud!\nI have no life😎"> </a> </h1> <p align="center"> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500px"> </p>
 
+![Profile Views](https://komarev.com/ghpvc/?username=waabiud&style=flat-square&color=0e75b6)
+
 <h1>
-**Full-stack Dev | Data Analyst | Cloud Enthusiast | Math and IT Student **
+**Full-stack Dev | Data Analyst | Cloud Enthusiast <br>| Math and IT Student **
 </h1>
 
 
