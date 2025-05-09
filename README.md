@@ -58,18 +58,13 @@ I build scalable web apps and analyze data like a pro. With a passion for clean 
 </p>
 
 <h2 align="center">🔥 Popular Repositories</h2> <p align="center"> - 🛍️ **E-commerce Website** - <a href="https://github.com/waabiud/ecommerce">GitHub</a> | <a href="https://waabiud.github.io/ecommerce">Live</a> <br> - 🗳️ **Online Voting System** - <a href="https://github.com/waabiud/OnlinVotingSystem">GitHub</a> <br> - 🔢 **Calculator** - <a href="https://github.com/waabiud/calculator">GitHub</a> | <a href="https://waabiud.github.io/calculator">Live</a> <br> </p>
- 
-## 🏅 GitHub Trophies
+
+ ## 🏆 Achievements 
+### 🏅 GitHub Trophies
 
 [![Trophies](https://github-profile-trophy.vercel.app/?username=waabiud&theme=gruvbox&column=7&margin-w=10&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
-## 🏆 Achievements 
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=waabiud&theme=gruvbox&no-frame=true&column=6&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
-
-### Contribution streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=waabiud&theme=tokyonight&hide_border=true)
 
  
  <h2 align="center">📊 GitHub Stats</h2> <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=waabiud&show_icons=true&theme=tokyonight" width="48%" align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waabiud&layout=compact&theme=tokyonight" width="48%" align="right"> </p> <h2 align="center">📫 Connect With Me</h2> <p align="center"> <a href="https://www.linkedin.com/in/abiud-wamalwa"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:abiudwamalwa1979@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="mailto:abiud.wamalwaa@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=red"/> </a> <a href="https://www.instagram.com/_abiu_d?igsh=MXd0NWxvMWRlbGZnaQ=="> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a> <a href="https://www.facebook.com/profile.php?id=100089464316173"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/> </a> <a href="https://www.facebook.com/profile.php?id=100084568450857"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/> </a> <a href="https://wa.me/254792129479"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/> </a> <a href="https://t.me/+254792129479"> <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/> </a> </p>
