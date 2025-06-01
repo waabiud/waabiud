@@ -3,7 +3,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=waabiud&style=flat-square&color=0e75b6)
 
 <h1>
-**Full-stack Developer | Data Analyst | Cloud Enthusiast | **
+**Full-stack Developer | Data Analyst| **
 </h1>
 
 
