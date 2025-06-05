@@ -57,7 +57,7 @@ I build scalable web apps and analyze data like a pro. With a passion for clean 
 </table>
 </p>
 
-<h2 align="center">🔥 Popular Repositories</h2> <p align="center"> - 🛍️ Motor vehicle booking - <a href="https://github.com/waabiud/MotorVehicle-booking-frontend">GitHub</a> | <a href="motor-vehicle-booking-frontend.vercel.app">Motorvehicle booking</a> <br> - 🗳️ Music player - <a href="https://github.com/waabiud/Music-player">GitHub</a> | <a href="music-player-sable-omega.vercel.app">Music player</a> <br> - 🔢 Calculator - <a href="https://github.com/waabiud/calculator">GitHub</a> | <a href="https://waabiud.github.io/calculator">Calculator</a> <br> </p>
+<h2 align="center">🔥 Popular Repositories</h2> <p align="center"> - 🛍️ Motor vehicle booking - <a href="https://github.com/waabiud/MotorVehicle-booking-frontend">GitHub</a> | <a href="https://motor-vehicle-booking-frontend.vercel.app/">Live</a> <br> - 🗳️ Music player - <a href="https://github.com/waabiud/Music-player">GitHub</a> | <a href="music-player-sable-omega.vercel.app">Live</a> <br> - 🔢 Calculator - <a href="https://github.com/waabiud/calculator">GitHub</a> | <a href="https://waabiud.github.io/calculator">Live</a> <br> </p>
 
  ## 🏆 Achievements 
 ### 🏅 GitHub Trophies
