@@ -14,7 +14,9 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=waabiud&style=flat-square&color=0e75b6)
 
 <p align="left"> <a href="https://x.com/_abiu_d" target="blank"><img src="https://img.shields.io/twitter/follow/_abiu_d?logo=twitter&style=for-the-badge" alt="_abiu_d" /></a> </p>
-
+<br>
+<img align="center" src="./about.png" width="100%" alt="About" />
+</br></br>
 <!-- Typing animation for each list item with dark blue and 15s pause -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=18&pause=15000&color=00008B&center=true&vCenter=true&width=1000&lines=🌱+Currently+navigating+the+freelance+world."/>
@@ -35,8 +37,7 @@
 <hr/>
 
 <img align="center" src="./stack.png" width="100%" alt="My Stack Section Title" />
-</br></br>
-
+</br>
 <p align="center">
 <table>
 <tr>
