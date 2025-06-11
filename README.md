@@ -1,16 +1,42 @@
-<h1 align="center"> <a href="#"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Hey,+Am+Wamalwa+Abiud!;+A+Web+Developer;+App+developer;+Data+Analyst;+Welcome👽;" alt="Hey, Am Wamalwa Abiud!\nI have no life😎"> </a> </h1> <p align="center"> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500px"> </p>
+<h6 align="center">
+  <a href="#">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=435&lines=Hey,+Am+Wamalwa+Abiud!;+A+Web+Developer;+App+Developer;+Data+Analyst;+Welcome👽;" alt="Hey, Am Wamalwa Abiud!">
+  </a>
+</h6>
+<p align="center">
+
+<p align="center">
+
+<hr>
+ <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500px"> </p>
+<hr/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=waabiud&style=flat-square&color=0e75b6)
 
-<h1>
-**Full-stack Developer | Data Analyst| **
-</h1>
+<p align="left"> <a href="https://x.com/_abiu_d" target="blank"><img src="https://img.shields.io/twitter/follow/_abiu_d?logo=twitter&style=for-the-badge" alt="_abiu_d" /></a> </p>
 
+<!-- Typing animation for each list item with dark blue and 15s pause -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=18&pause=15000&color=00008B&center=true&vCenter=true&width=1000&lines=🌱+Currently+navigating+the+freelance+world."/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=18&pause=15000&color=00008B&center=true&vCenter=true&width=1000&lines=I+craft+robust+web+apps+%26+analyze+data+with+elegant+code+and+thoughtful+design."/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=18&pause=15000&color=00008B&center=true&vCenter=true&width=1000&lines=💻+Currently+working+with+React,+Node.js,+and+data+pipelines."/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=18&pause=15000&color=00008B&center=true&vCenter=true&width=1000&lines=📚+🎓+Pursuing+B.Sc.+in+Mathematics+%26+Computing."/>
+</p>
 
-I build scalable web apps and analyze data like a pro. With a passion for clean code and smart design, I blend tech and creativity to solve real-world problems. Currently vibing with React, Node.js, and data pipelines. Let’s build the future, one commit at a time.
- 
+<!-- Fun Facts Section -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=18&pause=15000&color=00008B&center=true&vCenter=true&width=1000&lines=💡+Fun+Facts+🌟"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=16&pause=15000&color=00008B&center=true&vCenter=true&width=1000&lines=🤖+JavaScript+adds+that+extra+spark+to+my+daily+grind."/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=16&pause=15000&color=00008B&center=true&vCenter=true&width=1000&lines=⛩️+When+the+future+becomes+the+past,+the+present+reveals+itself."/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=16&pause=15000&color=00008B&center=true&vCenter=true&width=1000&lines=✒️+My+editor+is+pure+black+and+white+vibes."/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=16&pause=15000&color=00008B&center=true&vCenter=true&width=1000&lines=💻+Once+mesmerized+by+dark+terminals,+now+I+create+the+magic."/>
+</p>
 
-<h2 align="center">🚀 Technologies & Tools</h2>
+<hr/>
+
+<img align="center" src="./stack.png" width="100%" alt="My Stack Section Title" />
+</br></br>
+
 <p align="center">
 <table>
 <tr>
@@ -57,16 +83,39 @@ I build scalable web apps and analyze data like a pro. With a passion for clean 
 </table>
 </p>
 
-<h2 align="center">🔥 Popular Repositories</h2> <p align="center"> - 🛍️ Motor vehicle booking - <a href="https://github.com/waabiud/MotorVehicle-booking-frontend">GitHub</a> | <a href="https://motor-vehicle-booking-frontend.vercel.app/">Live</a> <br> - 🗳️ Music player - <a href="https://github.com/waabiud/Music-player">GitHub</a> | <a href="music-player-sable-omega.vercel.app">Live</a> <br> - 🔢 Calculator - <a href="https://github.com/waabiud/calculator">GitHub</a> | <a href="https://waabiud.github.io/calculator">Live</a> <br> </p>
+<img align="center" src="./contact.png" width="100%" alt="Contact Section Title" />
+<br/><br/>
+<br/>
 
- ## 🏆 Achievements 
-### 🏅 GitHub Trophies
+<p align="center"> <a href="https://www.linkedin.com/in/abiud-wamalwa"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:abiudwamalwa1979@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>  <a href="https://www.instagram.com/_abiu_d?igsh=MXd0NWxvMWRlbGZnaQ=="> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a> <a href="https://wa.me/254792129479"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/> </a> <a href="https://t.me/+254792129479"> <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/> </a> </p>
+
+
+
+<br/><br/>
+<hr/>
+
+<img align="center" src="./activity.png" width="100%" alt="Activity Section Title" />
 
 [![Trophies](https://github-profile-trophy.vercel.app/?username=waabiud&theme=gruvbox&column=7&margin-w=10&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=wekesaoliver&theme=tokyo-night&hide_border=true&show_icons=true&custom_title=Contribution%20Graph" />
+<br/><br/><br/>
+<img align="left" height="463px" src="https://luk4x-github-readme-stats.vercel.app/api/top-langs?username=waabiud&langs_count=12&theme=tokyonight&hide_border=true&custom_title=Top%20Languages&cache_seconds=14400&layout=pie" />
+<div align="right">
+  <img width="505px" src="https://luk4x-github-readme-stats.vercel.app/api?username=wekesaoliver&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&custom_title=Github%20Stats&cache_seconds=14400&hide=contribs&show=discussions_answered,prs_merged,prs_merged_percentage" />
+  <img width="505px" src="https://streak-stats.demolab.com/?user=waabiud&theme=tokyonight&hide_border=true" />
+</div>
+<br/>
 
- 
- <h2 align="center">📊 GitHub Stats</h2> <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=waabiud&show_icons=true&theme=tokyonight" width="48%" align="left"> <br> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waabiud&layout=compact&theme=tokyonight" width="48%" align="right"> 
- </p>
- <br> <h2 align="center">📫 Connect With Me</h2> <p align="center"> <a href="https://www.linkedin.com/in/abiud-wamalwa"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:abiudwamalwa1979@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>  <a href="https://www.instagram.com/_abiu_d?igsh=MXd0NWxvMWRlbGZnaQ=="> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a> <a href="https://wa.me/254792129479"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/> </a> <a href="https://t.me/+254792129479"> <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/> </a> </p>
+<hr>
+
+<img align="left" width="251px" alt="Frases de Grandes Nomes da Área de Tecnologia" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight" />
+<img align="right" width="170px" src="https://cdn.dribbble.com/users/6501075/screenshots/19994346/media/1ac3a7f59b24698b9c32f1025074abd1.gif" alt="Girl working with programming"/>
+
+
+<hr>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=2000&color=3498DB&center=true&vCenter=true&multiline=true&width=800&height=100&lines=%F0%9F%99%8F+Thanks+for+visiting!;Feel+free+to+connect+with+me" alt="Typing SVG" />
+</p>
