@@ -16,7 +16,7 @@
 <p align="left"> <a href="https://x.com/_abiu_d" target="blank"><img src="https://img.shields.io/twitter/follow/_abiu_d?logo=twitter&style=for-the-badge" alt="_abiu_d" /></a> </p>
 <br>
 <img align="center" src="./about.png" width="100%" alt="About" />
-</br></br>
+</br>
 <!-- Typing animation for each list item with dark blue and 15s pause -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=18&pause=15000&color=00008B&center=true&vCenter=true&width=1000&lines=🌱+Currently+navigating+the+freelance+world."/>
@@ -85,7 +85,6 @@
 </p>
 
 <img align="center" src="./contact.png" width="100%" alt="Contact Section Title" />
-<br/><br/>
 <br/>
 
 <p align="center"> <a href="https://www.linkedin.com/in/abiud-wamalwa"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:abiudwamalwa1979@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>  <a href="https://www.instagram.com/_abiu_d?igsh=MXd0NWxvMWRlbGZnaQ=="> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a> <a href="https://wa.me/254792129479"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/> </a> <a href="https://t.me/+254792129479"> <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/> </a> <p align="center">
