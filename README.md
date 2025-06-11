@@ -88,7 +88,11 @@
 <br/><br/>
 <br/>
 
-<p align="center"> <a href="https://www.linkedin.com/in/abiud-wamalwa"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:abiudwamalwa1979@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>  <a href="https://www.instagram.com/_abiu_d?igsh=MXd0NWxvMWRlbGZnaQ=="> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a> <a href="https://wa.me/254792129479"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/> </a> <a href="https://t.me/+254792129479"> <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/> </a> </p>
+<p align="center"> <a href="https://www.linkedin.com/in/abiud-wamalwa"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:abiudwamalwa1979@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>  <a href="https://www.instagram.com/_abiu_d?igsh=MXd0NWxvMWRlbGZnaQ=="> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a> <a href="https://wa.me/254792129479"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/> </a> <a href="https://t.me/+254792129479"> <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/> </a> <a href="tel:+254792129479" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/📞 Call Me-0000FF?style=for-the-badge&logo=phone&logoColor=white" alt="Call Me">
+  </a>
+</p>
+</p>
 
 
 
