@@ -17,13 +17,12 @@
 <br>
 <img align="center" src="./about.png" width="100%" alt="About" />
 </br>
-<!-- Typing animation for each list item with dark blue and 15s pause -->
+<!-- Typing animation for each listand 15s pause -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=18&pause=15000&color=00008B&center=true&vCenter=true&width=1000&lines=🌱+Currently+navigating+the+freelance+world."/>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=18&pause=15000&color=00008B&center=true&vCenter=true&width=1000&lines=I+craft+robust+web+apps+%26+analyze+data+with+elegant+code+and+thoughtful+design."/>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=18&pause=15000&color=00008B&center=true&vCenter=true&width=1000&lines=💻+Currently+working+with+React,+Node.js,+and+data+pipelines."/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=18&pause=15000&color=00008B&center=true&vCenter=true&width=1000&lines=📚+🎓+Pursuing+B.Sc.+in+Mathematics+%26+Computing."/>
-</p>
+
 
 <!-- Fun Facts Section -->
 <p align="center">
