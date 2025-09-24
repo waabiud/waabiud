@@ -13,7 +13,6 @@
 <hr/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=waabiud&style=flat-square&color=0e75b6)
-[image:https://wakatime.com/badge/user/ef02b990-8538-4872-934f-b19e469b94be.svg["wakatime", link="https://wakatime.com/@ef02b990-8538-4872-934f-b19e469b94be"]
 <a href="https://wakatime.com/@ef02b990-8538-4872-934f-b19e469b94be"><img src="https://wakatime.com/badge/user/ef02b990-8538-4872-934f-b19e469b94be.svg" alt="Total time coded since May 30 2025" /></a>
 
 <p align="left"> <a href="https://x.com/_abiu_d" target="blank"><img src="https://img.shields.io/twitter/follow/_abiu_d?logo=twitter&style=for-the-badge" alt="_abiu_d" /></a> </p>
