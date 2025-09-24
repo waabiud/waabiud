@@ -2,6 +2,7 @@
   <a href="#">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=435&lines=Hey,+Am+Wamalwa+Abiud!;+A+Web+Developer;+App+Developer;+Data+Analyst;+Welcome👽;" alt="Hey, Am Wamalwa Abiud!">
   </a>
+  
 </h6>
 <p align="center">
 
@@ -12,6 +13,7 @@
 <hr/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=waabiud&style=flat-square&color=0e75b6)
+image:https://wakatime.com/badge/user/ef02b990-8538-4872-934f-b19e469b94be.svg["wakatime", link="https://wakatime.com/@ef02b990-8538-4872-934f-b19e469b94be"]
 
 <p align="left"> <a href="https://x.com/_abiu_d" target="blank"><img src="https://img.shields.io/twitter/follow/_abiu_d?logo=twitter&style=for-the-badge" alt="_abiu_d" /></a> </p>
 <br>
