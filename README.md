@@ -1,4 +1,3 @@
-````md
 <h1 align="center">Hey 👋, I'm Wamalwa Abiud</h1>
 
 <h3 align="center">
@@ -21,7 +20,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=waabiud&style=for-the-badge&color=2563eb" alt="Profile Views"/>
-  
+
   <a href="https://wakatime.com/@ef02b990-8538-4872-934f-b19e469b94be">
     <img src="https://wakatime.com/badge/user/ef02b990-8538-4872-934f-b19e469b94be.svg" alt="Wakatime"/>
   </a>
@@ -55,7 +54,7 @@ Tech Interests:
 
 Fun Fact:
   - I spend more time in terminals than social apps 😅
-````
+```
 
 ---
 
@@ -130,4 +129,3 @@ while True:
 <p align="center">
   <i>Code • Learn • Build • Repeat</i>
 </p>
-```
