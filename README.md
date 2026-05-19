@@ -34,11 +34,11 @@
 
 ---
 
-## 🧑‍💻 About Me
+<img align="center" src="./about.png" width="100%" alt="About" />
 
 ```yaml
 Name: Wamalwa Abiud
-Location: Kenya 🇰🇪
+Location: Nairobi,Kenya 🇰🇪
 Role: Full-Stack Developer & Data Analyst
 
 Currently:
@@ -58,7 +58,7 @@ Fun Fact:
 
 ---
 
-## 🚀 Tech Stack
+<img align="center" src="./stack.png" width="100%" alt="My Stack Section Title" />
 
 <p align="center">
 
@@ -68,24 +68,18 @@ Fun Fact:
 
 ---
 
-## 📈 GitHub Stats
+<img align="center" src="./activity.png" width="100%" alt="Activity Section Title" /> [![Trophies](https://github-profile-trophy.vercel.app/?username=waabiud&theme=gruvbox&column=7&margin-w=10&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy). 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=waabiud&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=waabiud&theme=tokyo-night&hide_border=true&show_icons=true&custom_title=Contribution%20Graph" /> <br/><br/><br/> 
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=waabiud&theme=tokyonight&hide_border=true" width="49%" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waabiud&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
-</p>
-
+<img width="505px" src="https://streak-stats.demolab.com/?user=waabiud&theme=tokyonight&hide_border=true" /> </div> <br/>
 ---
 
-## 🌍 Connect With Me
+<img align="center" src="./contact.png" width="100%" alt="Contact Section Title" /> <br/>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/abiudwamalwa">
+  <a href="https://www.linkedin.com/in/abiud-wamalwa">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
@@ -97,7 +91,7 @@ Fun Fact:
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 
-  <a href="https://www.instagram.com/abiu__d">
+  <a href="https://www.instagram.com/_abiu_d">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 
@@ -124,8 +118,9 @@ while True:
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
 
-<h3 align="center">Thanks for visiting 👽</h3>
 
 <p align="center">
   <i>Code • Learn • Build • Repeat</i>
 </p>
+
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=2000&color=3498DB&center=true&vCenter=true&multiline=true&width=800&height=100&lines=%F0%9F%99%8F+Thanks+for+visiting!;Feel+free+to+connect+with+me" alt="Thanks for visiting"/> </p>
